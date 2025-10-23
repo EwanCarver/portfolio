@@ -8,7 +8,7 @@
 
 ![SpaceGame](https://github.com/EwanCarver/portfolio/blob/main/images/SapceGameScreenCap.png?raw=true)
 
-(Description)
+
 
 #### Downloads
  * [Windows EXE](https://github.com/EwanCarver/portfolio/blob/main/src/SpaceGame/windows-amd64.zip)
