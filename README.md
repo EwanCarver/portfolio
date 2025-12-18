@@ -30,7 +30,7 @@ I personally made the majority of graphics as well as all of the sound effects a
 I also created a "MusicManage" class that worked to make adaptive music. When in range of an enemy, the music will smoothly transition to a more intense version of the background music. (I also made this music myself)
 
 <audio controls>
-  <source src="https://github.com/EwanCarver/portfolio/blob/main/images/facility_calm.wav" type="audio/wav">
+  <source src="https://github.com/EwanCarver/portfolio/blob/main/images/facility_calm.wav?raw=true" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
