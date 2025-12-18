@@ -2,12 +2,12 @@
 
 #### My portfolio for Game Dev 1 and 2
 
-## Term 1 projects
 
-## SpaceGame
+## Term 1 project - Space Game
 
 ![SpaceGame](https://github.com/EwanCarver/portfolio/blob/main/images/SapceGameScreenCap.png?raw=true)
 
+Made using processing
 
 
 #### Downloads
