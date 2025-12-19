@@ -45,4 +45,6 @@ I also created a "MusicManage" class that worked to make adaptive music. When in
   Your browser does not support the audio element.
 </audio>
 
+(Try reloading if the audio players don't load)
+
 
