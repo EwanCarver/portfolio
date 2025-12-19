@@ -34,9 +34,14 @@ Check out the [GITHUB REPOSITORY](https://eggz-csm.github.io/LET_LOOSE).
 I personally made the majority of graphics as well as all of the sound effects and the implementation of them.
 I also created a "MusicManage" class that worked to make adaptive music. When in range of an enemy, the music will smoothly transition to a more intense version of the background music. (I also made this music myself)
 
-<audio controls>
-  <source src="https://github.com/EwanCarver/portfolio/blob/main/images/facility_calm.wav?raw=true" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+
+
+
+https://github.com/user-attachments/assets/6bb3316b-0e04-481e-8fd3-14983dc1d03d
+
+
+
+
+https://github.com/user-attachments/assets/9e923e52-77b7-4e57-a317-72b182783077
 
 
