@@ -41,7 +41,7 @@ I also created a "MusicManage" class that worked to make adaptive music. When in
 </audio>
 
 <audio controls>
-  <source src="https://github.com/EwanCarver/GAME-DEV-PORTFOLIO/blob/main/images/facility_tense.wav?raw=true" type="audio/wav">
+  <source src="https://github.com/EwanCarver/GAME-DEV-PORTFOLIO/blob/main/images/facility_tense.wav?" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
