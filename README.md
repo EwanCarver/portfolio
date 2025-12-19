@@ -1,4 +1,5 @@
 # Ewan's Game Dev Portfolio 2025
+## [Contact me](mailto:ewan.carver@gmail.com)
 
 #### My portfolio for Game Dev 1 and 2
 
