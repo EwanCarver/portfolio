@@ -6,7 +6,11 @@
 
 ## Term 1 Project - Space Game
 
-![SpaceGame](https://github.com/EwanCarver/portfolio/blob/main/images/SapceGameScreenCap.png?raw=true)
+![SpaceGame](https://github.com/EwanCarver/portfolio/blob/main/images/SapceGameScreenCap.png?raw=true)<br>
+![Ship](https://github.com/EwanCarver/portfolio/blob/main/images/spaceship.png?raw=true)
+![Laser](https://github.com/EwanCarver/portfolio/blob/main/images/laser.gif?raw=true)
+![Rock1](https://github.com/EwanCarver/portfolio/blob/main/images/Rock01.png?raw=true)
+![Rock2](https://github.com/EwanCarver/portfolio/blob/main/images/Rock03.png?raw=true)
 
 Made using processing
 
